@@ -8,4 +8,4 @@
  
 ## 3. Полный список индикаторов: https://databank.worldbank.org/source/world-development-indicators
 
-## 4. requests.get() делает HTTP-запрос:
+## 4. requests.get() делает HTTP-запрос
