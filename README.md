@@ -9,3 +9,5 @@
 ## 3. Полный список индикаторов: https://databank.worldbank.org/source/world-development-indicators
 
 ## 4. requests.get() делает HTTP-запрос
+
+## 5. Сохранение полученных данных в csv файл
